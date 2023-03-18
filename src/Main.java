@@ -32,13 +32,13 @@ public class Main {
         int firstLetterName = 78;
         int secondLetterName = 69;
         int thirdLetterName = 74;
-        int forthLetterName = 82;
+        int fourthLetterName = 82;
         int fifthLetterName = 65;
 
         System.out.print((char) firstLetterName);
         System.out.print((char) secondLetterName);
         System.out.print((char) thirdLetterName);
-        System.out.print((char) forthLetterName);
+        System.out.print((char) fourthLetterName);
         System.out.println((char) fifthLetterName);
 
         //   4. zadatak
