@@ -29,24 +29,20 @@ public class Main {
 
         //   3. zadatak
 
-        int firstLetterName = 78;
-        int secondLetterName = 69;
-        int thirdLetterName = 74;
-        int fourthLetterName = 82;
-        int fifthLetterName = 65;
+        char firstLetterChar = 78;
+        char secondLetterChar = 69;
+        char thirdLetterChar = 74;
+        char fourthLetterChar = 82;
+        char fifthLetterChar = 65;
 
-        System.out.print((char) firstLetterName);
-        System.out.print((char) secondLetterName);
-        System.out.print((char) thirdLetterName);
-        System.out.print((char) fourthLetterName);
-        System.out.println((char) fifthLetterName);
+        System.out.println(firstLetterChar+""+ secondLetterChar +""+thirdLetterChar +""+ fourthLetterChar +""+ fifthLetterChar);
 
         //   4. zadatak
 
         int ultimateNumber = 2;
         String ultimateNumberQuestion = "Answer to the Ultimate Question of Life, the Universe, and Everything is the number 42:";
-        boolean ultimateAnswer = ultimateNumber == 42;
-        System.out.println(ultimateNumberQuestion + (ultimateAnswer));
+        boolean ultimateAnswer = true;
+        System.out.println(ultimateNumberQuestion + (ultimateNumber==42));
 
         //   5. zadatak + BONUS
 
