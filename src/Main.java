@@ -41,8 +41,8 @@ public class Main {
 
         int ultimateNumber = 2;
         String ultimateNumberQuestion = "Answer to the Ultimate Question of Life, the Universe, and Everything is the number 42:";
-        boolean ultimateAnswer = true;
-        System.out.println(ultimateNumberQuestion + (ultimateNumber==42));
+        boolean ultimateAnswer = ultimateNumber == 42;
+        System.out.println(ultimateNumberQuestion + (ultimateAnswer));
 
         //   5. zadatak + BONUS
 
