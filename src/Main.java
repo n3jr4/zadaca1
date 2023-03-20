@@ -36,7 +36,7 @@ public class Main {
         char fifthNameLetter = 65;
 
         System.out.println(firstNameLetter+""+ secondNameLetter +""+thirdNameLetter +""+ fourthNameLetter +""+ fifthNameLetter);
-
+        System.out.println("" + firstNameLetter + secondNameLetter + thirdNameLetter+ fourthNameLetter + fifthNameLetter);
         //   4. zadatak
 
         int ultimateNumber = 2;
