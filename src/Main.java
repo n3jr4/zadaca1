@@ -29,13 +29,13 @@ public class Main {
 
         //   3. zadatak
 
-        char firstLetterChar = 78;
-        char secondLetterChar = 69;
-        char thirdLetterChar = 74;
-        char fourthLetterChar = 82;
-        char fifthLetterChar = 65;
+        char firstNameLetter = 78;
+        char secondNameLetter = 69;
+        char thirdNameLetter = 74;
+        char fourthNameLetter = 82;
+        char fifthNameLetter = 65;
 
-        System.out.println(firstLetterChar+""+ secondLetterChar +""+thirdLetterChar +""+ fourthLetterChar +""+ fifthLetterChar);
+        System.out.println(firstNameLetter+""+ secondNameLetter +""+thirdNameLetter +""+ fourthNameLetter +""+ fifthNameLetter);
 
         //   4. zadatak
 
